@@ -19,3 +19,9 @@
 | Delete Todo     | `DELETE` | `/api/todos/{todo_id}/` _(replace `{todo_id}` with the actual ID)_ |
 
 ---
+
+## FOR GITHUB REPOSITORY AND DEPLOYED URL
+
+https://github.com/spikee009/fastapi-todolist-frontend
+
+https://fastapi-todolist-frontend.onrender.com/
