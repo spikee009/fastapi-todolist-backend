@@ -1,14 +1,21 @@
-# 📝 FastAPI Todo List Backend
+# 🖥️ FastAPI Todo List Project
+
+## 🌐 Frontend (React)
+
+- 🔗 **GitHub Repo**: [fastapi-todolist-frontend](https://github.com/spikee009/fastapi-todolist-frontend)
+- 🚀 **Live App**: [fastapi-todolist-frontend.onrender.com](https://fastapi-todolist-frontend.onrender.com)
 
 ---
 
-## 🚀 Live API
+## 📝 Backend (FastAPI)
 
-- 🔗 **Base URL**: [`https://fastapi-todolist-backend.onrender.com`](https://fastapi-todolist-backend.onrender.com)
-- 📘 **Swagger UI Docs**: [`/docs`](https://fastapi-todolist-backend.onrender.com/docs)
-- 📕 **ReDoc UI**: [`/redoc`](https://fastapi-todolist-backend.onrender.com/redoc)
+- 🔗 **Live API**: [fastapi-todolist-backend.onrender.com](https://fastapi-todolist-backend.onrender.com)
+- 📘 **Swagger Docs**: [View Docs](https://fastapi-todolist-backend.onrender.com/docs)
+- 📕 **ReDoc UI**: [View ReDoc](https://fastapi-todolist-backend.onrender.com/redoc)
 
-## 📌 Endpoints
+---
+
+## 📌 API Endpoints
 
 | Action          | Method   | Endpoint                                                           |
 | --------------- | -------- | ------------------------------------------------------------------ |
@@ -17,11 +24,3 @@
 | Create Todo     | `POST`   | `/api/todos/`                                                      |
 | Update Todo     | `PATCH`  | `/api/todos/{todo_id}/` _(replace `{todo_id}` with the actual ID)_ |
 | Delete Todo     | `DELETE` | `/api/todos/{todo_id}/` _(replace `{todo_id}` with the actual ID)_ |
-
----
-
-## FOR GITHUB REPOSITORY AND DEPLOYED URL
-
-https://github.com/spikee009/fastapi-todolist-frontend
-
-https://fastapi-todolist-frontend.onrender.com/
